@@ -1,0 +1,19 @@
+.white{
+    color:white;
+}
+.background{
+    background-color: rgb(3, 3, 54);
+}
+.footnote{
+    color:beige;
+    font-style: oblique;
+}
+
+.shrink{
+    width: auto
+}
+
+.body{
+    width: auto;
+    vertical-align: 50vw;
+}
